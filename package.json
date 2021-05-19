@@ -1,0 +1,14 @@
+{
+  "name": "basic-hapi-rest",
+  "version": "1.0.0",
+  "description": "a basic rest api with hapi",
+  "main": "index.js",
+  "repository": "https://github.com/ayoub-g/basic-hapi-rest.git",
+  "type": "module",
+  "author": "Ayoub Gharbi",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@hapi/hapi": "^20.1.3"
+  }
+}
