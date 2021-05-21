@@ -8,6 +8,9 @@
   "author": "Ayoub Gharbi",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@hapi/hapi": "^20.1.3"
   }
