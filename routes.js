@@ -30,9 +30,7 @@ export const routes = [
         ? quotes[id]
         : quotes[quotes.length - 1];
 
-      return {
-        quote,
-      };
+      return quote;
     },
   },
 ];
